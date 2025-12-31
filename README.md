@@ -88,7 +88,7 @@ This output represents insights derived from web articles and search results rel
 
 ### Combined Research Report (Final Output)
 ![Final Structured Output](./images/combined_output1.png)
-(./images/combined_output2.png)
+![Final Structured Output](./images/combined_output2.png)
 
 The final report aggregates insights across all sources, resolves conflicts, and produces a deterministic, schema-validated research output.
 
